@@ -67,7 +67,7 @@ python create_photo_pdfs.py --cols 4 --rows 2
 python create_photo_pdfs.py --cols 1 --rows 5
 ```
 
-## 📋 Features
+## Features
 
 ### Download Script (`download_photos.py`)
 - Interactive Google Photos picker interface
@@ -89,7 +89,7 @@ python create_photo_pdfs.py --cols 1 --rows 5
 - **[Download Script Guide](README_DOWNLOAD.md)** - Complete setup and usage for photo downloading
 - **[PDF Creator Guide](README_PDF.md)** - Advanced PDF creation options and customization
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -114,3 +114,7 @@ python create_photo_pdfs.py --cols 1 --rows 5
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Authoring
+
+Made with the contribution of GitHub/Copilot and ChatGPT.
