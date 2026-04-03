@@ -1,0 +1,17 @@
+.credentials.json
+token.json
+downloads_selected_photos/**/*
+photo_pdfs/*****
+
+# Photo files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+
+# PDF files
+*.pdf
